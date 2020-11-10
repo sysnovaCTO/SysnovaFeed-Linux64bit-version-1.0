@@ -11,6 +11,13 @@
 * run install.sh from terminal.
 * run run.sh
 
+### Sync old Database with new version 
+----------------------------------------
+* First Take backup of you old database feedDatabase.h2.db from home Directory.
+* Then install the new version 1.0.
+* Replace new database with old one inside home Directory.
+* Run the application.
+
 ### Note:
 * SysnovaFeed software is a comprehensive free/open-source tool designed to meet the formulation needs of professional nutritionists and feed producers.
 * The free/open-source nature of SysnovaFeed also makes it ideal for use in academic institutions and universities.
@@ -25,7 +32,8 @@
 * Formulations: SysnovaFeed contains default formulations for well-known breeds of commercial layers based on published nutritional standards of 
   breeding companies. Users can edit these formulations and add unlimited new formulations.
 * Prices: SysnovaFeed comes with a default set of prices which the user can update to reflect current market rates.
-
+* Shadow Price : SysnovaFeed (version 1.0) will provide you Shadow prices and competitive prices for both ingredients and nutrients.
+* Analysis Process : SysnovaFeed (version 1.0) has two types of formulation analysis process (As fed analysis and Dry matter analysis).
 ### Technical Features :
 ----------------------
 * SysnovaFeed desktop formulation software is released under an open-source license which means it will never require any license fee.
