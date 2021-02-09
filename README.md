@@ -4,7 +4,7 @@
 ### Prerequisities
 --------------------
 * OS: Linux (recommended ubuntu version:  Ubuntu 16.04.2 64bit)
-* java:jdk 1.7.0 or higher version
+* java:openJdk 1.7 or higher version
 
 ### Installation
 ----------------------
